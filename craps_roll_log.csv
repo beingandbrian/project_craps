@@ -1,0 +1,17 @@
+log_datetime,game_key,game_roll_count,roll_resulting_tuple,roll_resulting_tuple_sum,win_game_or_lose_game_or_point_game,win_roll_or_lose_roll_or_roll_again
+2022-01-25 11:21:00:0185,6595262,5,5 + 5,10,point_game,winning_roll
+2022-01-25 11:21:00:0184,6595262,4,1 + 4,5,point_game,roll_again
+2022-01-25 11:21:00:0183,6595262,3,2 + 6,8,point_game,roll_again
+2022-01-25 11:21:00:0173,6595262,2,5 + 6,11,point_game,roll_again
+2022-01-25 11:20:59:0021,6595262,1,4 + 6,10,point_game,roll_again
+2022-01-25 10:16:28:0091,6595261,1,6 + 5,11,win_game,winning_roll
+2022-01-25 10:16:49:0811,6595262,1,5 + 1,6,point_game,roll_again
+2022-01-25 10:16:50:0977,6595262,2,1 + 4,5,point_game,roll_again
+2022-01-25 10:16:50:0987,6595262,3,4 + 4,8,point_game,roll_again
+2022-01-25 10:16:50:0988,6595262,4,3 + 6,9,point_game,roll_again
+2022-01-25 10:16:50:0989,6595262,5,5 + 4,9,point_game,roll_again
+2022-01-25 10:16:50:0990,6595262,6,4 + 5,9,point_game,roll_again
+2022-01-25 10:16:50:0990,6595262,7,5 + 2,7,point_game,losing_roll
+2022-01-25 10:17:31:0666,6595263,1,2 + 1,3,lose_game,losing_roll
+2022-01-25 10:39:26:0719,6595264,1,1 + 3,4,point_game,roll_again
+2022-01-25 10:39:26:0720,6595264,2,3 + 1,4,point_game,winning_roll
